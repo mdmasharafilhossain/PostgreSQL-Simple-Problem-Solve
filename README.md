@@ -1,2 +1,2 @@
-## 1. What is PostgreSQL?
+### 1. What is PostgreSQL?
 PostgreSQL is an open-source database system that's designed to be highly scalable. It supports almost all  common database functions like foreign key, subqueries ,triggers and user-defined types and functions. This makes it very useful for storing and managing data in mobile and web applications. It also supports things like joins ,views, and stored procedures. Essentially, PostgreSQL is powerful and flexible,. It includes most data types of SQL like that of INTEGER, VERCHAR, BOOLEAN. PostgreSQL is a powerful database management system well-suited for the financial industry and other data-intensive applications making it a great choice for many developers.
