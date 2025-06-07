@@ -96,7 +96,7 @@ Example:
 
 UPDATE NID_Info_Table
 
-SET Name = Mashrafil
+SET Name = "Mashrafil"
 
 WHERE NID_Number= 45454524242
 
